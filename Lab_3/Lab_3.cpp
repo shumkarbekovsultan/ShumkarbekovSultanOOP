@@ -1,5 +1,4 @@
-﻿
-#1 
+/*#1*/
 
 /* #include <iostream>
 #include <string>
@@ -46,7 +45,7 @@ int main() {
 
 */
 
-#2
+/*#2*/
 /*
 #include <iostream>
 #include <string>
@@ -106,9 +105,9 @@ int main() {
 }
 */
 
-#3
+/*#3*/
 
-/*
+
 #include <iostream>
 #include <string>
 #include <chrono>
@@ -199,4 +198,4 @@ while (!validDate) {
 
     return 0;
 }
-*/
+
