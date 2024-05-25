@@ -29,11 +29,11 @@ public:
         return 1 - std::pow(1 - p, n);
     }
 };
-
+ double probability;
+    int n;
 int main() {
     Cannon cannon;
-    double probability;
-    int n;
+   
 
     std::cout << "¬ведите веро€тность попадани€ (в промежутке от 0 до 1): ";
     std::cin >> probability;
